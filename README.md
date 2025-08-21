@@ -58,4 +58,4 @@ Cómo ejecutar
 	•	Facturación: ingresar cédula, agregar líneas, Generar TXT.
 	•	Probar redes (socket): confirma comunicación local.
 
-Dónde se guardan las facturas: carpeta facturas/ dentro del proyecto (si no existe se crea). Muestra la ruta completa al generar.
+Dónde se guardan las facturas: carpeta facturas/ dentro del proyecto. Muestra la ruta completa al generar.
