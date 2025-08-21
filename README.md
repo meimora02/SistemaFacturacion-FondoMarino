@@ -59,3 +59,8 @@ Cómo ejecutar
 	•	Probar redes (socket): confirma comunicación local.
 
 Dónde se guardan las facturas: carpeta facturas/ dentro del proyecto. Muestra la ruta completa al generar.
+
+
+
+Autora 
+Melissa Mora Gutierrez 
