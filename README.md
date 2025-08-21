@@ -5,8 +5,6 @@ Sistema de Facturación – Fondo Marino
 App de escritorio en Java (Swing) con MySQL y sockets.
 Permite: gestión de clientes (BD), ver inventario (BD), facturar con IVA 13% y generar TXT, y prueba de redes por sockets.
 
-Repo: https://github.com/meimora02/SistemaFacturacion-FondoMarino
-
 Requisitos
 	•	JDK 17+ (NetBeans recomendado)
 	•	MySQL Server local
